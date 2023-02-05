@@ -1,7 +1,5 @@
 # Test number 2
 
-## adding in another change
+## Local Development
 
-## another change upstream
-
-## a change made locally
+1. Open index.html in your browser
